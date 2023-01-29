@@ -9,6 +9,7 @@
 
 - 🤝 Completed [QuotesGenerator](https://github.com/ThatUncreativeDude/QuotesGenerator)
 - 🤝 Completed [Specterhaxx](https://github.com/ThatUncreativeDude/specterhaxx)
+- 🤝 Completed [AVEvasion](https://aievasion.webflow.io/)
 - 🤝 Completed [Aestroids Online](https://www.roblox.com/games/7113158847/Asteroid-Online-ALPHA)
 
 
